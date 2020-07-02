@@ -1,0 +1,19 @@
+{
+  "name": "electron-demo",
+  "version": "1.0.0",
+  "description": "electron demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiffsea/Electron-Demo.git"
+  },
+  "author": "tiffsea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiffsea/Electron-Demo/issues"
+  },
+  "homepage": "https://github.com/tiffsea/Electron-Demo#readme"
+}
